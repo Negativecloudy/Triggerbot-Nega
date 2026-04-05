@@ -31,6 +31,7 @@
 ▶ Interfaz limpia, rápida y adaptable.
 
 🚀 Uso
+
 ▶ 1. Ejecutar el programa.
 
 ▶ 2. Abrir el menú principal.

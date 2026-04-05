@@ -8,15 +8,25 @@
 ▶ El sistema incluye un panel moderno (tema púrpura) con múltiples opciones configurables, pensado para usuarios que buscan precisión y control.
 
 ⚙️ Funciones principales
+
 ▶ Triggerbot
+
 ▶ Activa automáticamente acciones cuando se cumplen ciertas condiciones.
+
 ▶ Auto Fire
+
 ▶ Permite automatizar disparos bajo parámetros definidos.
+
 ▶ Delay Settings
+
 ▶ Ajuste fino de tiempos de respuesta.
+
 ▶ Key Bindings
+
 ▶ Activación mediante teclas configurables.
+
 ▶ UI Personalizable
+
 ▶ Interfaz limpia, rápida y adaptable.
 
 🚀 Uso
